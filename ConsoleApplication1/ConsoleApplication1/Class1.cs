@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class Class1
     {
-        // changes in the b1 branch
-        static void Main(string[] args)
-        {
-            // dfsdfsdfsdf
-        }
     }
 }
