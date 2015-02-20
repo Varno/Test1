@@ -8,13 +8,5 @@ namespace ConsoleApplication1
 {
     class Class1
     {
-//2
-// 3
-     // 344234
-        //1
-        //2
-
-        //4
-        // 5
     }
 }
